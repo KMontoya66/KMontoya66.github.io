@@ -3,7 +3,10 @@
 
 I am a computer engineering major attending Cal State Fullerton, and I plan to graduate in 2029.
 
-## Favorite CPSC 120L Labs
+## Computer Science Projects
+My GitHub page is https://github.com/KMontoya66
+
+### Favorite CPSC 120L Labs
 
 Lab 1
 
